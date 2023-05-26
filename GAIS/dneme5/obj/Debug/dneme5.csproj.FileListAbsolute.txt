@@ -1,0 +1,13 @@
+C:\Users\celil\Desktop\dneme5\dneme5\bin\Debug\dneme5.exe.config
+C:\Users\celil\Desktop\dneme5\dneme5\bin\Debug\dneme5.exe
+C:\Users\celil\Desktop\dneme5\dneme5\bin\Debug\dneme5.pdb
+C:\Users\celil\Desktop\dneme5\dneme5\obj\Debug\dneme5.csproj.AssemblyReference.cache
+C:\Users\celil\Desktop\dneme5\dneme5\obj\Debug\dneme5.csproj.SuggestedBindingRedirects.cache
+C:\Users\celil\Desktop\dneme5\dneme5\obj\Debug\dneme5.Form1.resources
+C:\Users\celil\Desktop\dneme5\dneme5\obj\Debug\dneme5.Properties.Resources.resources
+C:\Users\celil\Desktop\dneme5\dneme5\obj\Debug\dneme5.csproj.GenerateResource.cache
+C:\Users\celil\Desktop\dneme5\dneme5\obj\Debug\dneme5.csproj.CoreCompileInputs.cache
+C:\Users\celil\Desktop\dneme5\dneme5\obj\Debug\dneme5.exe
+C:\Users\celil\Desktop\dneme5\dneme5\obj\Debug\dneme5.pdb
+C:\Users\celil\Desktop\dneme5\dneme5\obj\Debug\dneme5.Form2.resources
+C:\Users\celil\Desktop\dneme5\dneme5\obj\Debug\dneme5.GAIS.resources
